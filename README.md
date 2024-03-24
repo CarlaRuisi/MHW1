@@ -1,4 +1,4 @@
-# MHW1
+# mhw1
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
